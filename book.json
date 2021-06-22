@@ -1,0 +1,11 @@
+{
+    "title": "袁俊亮技术博客",
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "plugins": [
+        "back-to-top-button",
+        "chapter-fold",
+        "code"
+    ]
+}
